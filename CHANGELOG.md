@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Update Travis config to improve PR build speed
+- Use credentials sent via signaling connection JOIN_ACK to improve audio-video startup time.
 
 ### Removed
 
